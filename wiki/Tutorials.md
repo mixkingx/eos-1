@@ -23,7 +23,7 @@ You'll learn how to create and manage wallets, their keys and then use this wall
 
 This tutorial is for users who want to learn about wallet and account management. It will attempt to teach you as much about `eosc` and how wallets and accounts on EOS interact with each other. Advanced users may be better suited to check out the **[Command Reference](Command%20Reference)**
 
-本教程适用于想要了解钱包和账户管理的用户。该教程会尽可能多地向你展示 `eosc` 的使用，以及 EOS 上的钱包和账户之间的互相交互。高级用户可能更适合查阅**[命令参考资料](Command%20Reference)**
+本教程适用于想要了解钱包和账户管理的用户。该教程会尽可能多地向你展示 `eosc` 的使用，以及 EOS 上的钱包和账户之间的互相交互。高级用户可能更适合查阅 **[命令参考资料](Command%20Reference)**
 
 #### Prerequisites | 准备
 
